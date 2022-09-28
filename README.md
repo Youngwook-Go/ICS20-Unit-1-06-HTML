@@ -1,7 +1,7 @@
-# ICS20-Unit-1-06-HTML
+# ICS2O-Unit1-06-HTML-Favicon
 
-[![Mr Coxall's Super Linter](https://github.com/Youngwook-Go/ICS20-Unit-1-06-HTML/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/Youngwook-Go/ICS20-Unit-1-06-HTML/actions/)
+[![Mr Coxall's Super Linter](https://github.com/Mr-Coxall/ICS2O-Unit1-06-HTML-Favicon/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/Mr-Coxall/ICS2O-Unit1-06-HTML-Favicon/actions/)
 
-[![Run on Repl.it](https://repl.it/badge/github/Youngwook-Go/ICS20-Unit-1-06-HTML)](https://repl.it/github/Youngwook-Go/ICS20-Unit-1-06-HTML)
+[![Run on Repl.it](https://repl.it/badge/github/Mr-Coxall/ICS2O-Unit1-06-HTML-Favicon)](https://repl.it/github/Mr-Coxall/ICS2O-Unit1-06-HTML-Favicon)
 
-This site can be found at: [https://Youngwook-Go.github.io/ICS20-Unit-1-06-HTML](https://Youngwook-Go.github.io/ICS20-Unit-1-06-HTML)
+This site can be found at: [https://mr-coxall.github.io/ICS2O-Unit1-06-HTML-Favicon/](https://mr-coxall.github.io/ICS2O-Unit1-06-HTML-Favicon/)
