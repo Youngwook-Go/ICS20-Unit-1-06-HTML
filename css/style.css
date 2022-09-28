@@ -1,5 +1,5 @@
-/* Created by: Youngwook
-* Created on: Sep 2020
+/* Created by: Youngwook Go
+* Created on: Sep 2022
 * This file contains the CSS for index.html
 */
 
@@ -16,6 +16,7 @@
 
 /* Due to error in MDL : https://github.com/google/material-design-lite/issues/5281
 */
+
 .mdl-ripple {
   background: #000;
   opacity: 0.001;
